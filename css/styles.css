@@ -83,57 +83,57 @@ body {
 /* DID word */
 
 .didDLetter {
-  font-size: 72px;
-  font-weight: bold;
+  font-size: 58px;
+  font-weight: 400;
   color: red;
-  text-decoration: underline;
-  text-transform: uppercase;
+  text-decoration: line-through;
+  text-transform: lowercase;
   font-family: 'Piazolla', sans-serif;
 }
 
 .didILetter {
-  font-size: 72px;
-  font-weight: bold;
+  font-size: 65px;
+  font-weight: normal;
   color: green;
-  text-decoration: underline;
+  text-decoration: overline;
   text-transform: uppercase;
   font-family: 'Piazolla', sans-serif;
 }
 
 .didDTwoLetter {
-  font-size: 72px;
-  font-weight: bold;
+  font-size: 60px;
+  font-weight: 700;
   color: lightpink;
-  text-decoration: underline;
-  text-transform: uppercase;
+  text-decoration: none;
+  text-transform: lowercase;
   font-family: 'Piazolla', sans-serif;
 }
 
 /* THE word */
 
 .theTLetter {
-  font-size: 72px;
+  font-size: 70px;
   font-weight: bold;
   color: darkorchid;
   text-decoration: underline;
-  text-transform: uppercase;
+  text-transform: lowercase;
   font-family: 'Piazolla', sans-serif;
 }
 
 .theHLetter {
-  font-size: 72px;
-  font-weight: bold;
+  font-size: 45px;
+  font-weight: 400;
   color: yellowgreen;
-  text-decoration: underline;
+  text-decoration: linethrough;
   text-transform: uppercase;
   font-family: 'Piazolla', sans-serif;
 }
 
 .theELetter {
-  font-size: 72px;
+  font-size: 70px;
   font-weight: bold;
   color: indigo;
-  text-decoration: underline;
+  text-decoration: line-through;
   text-transform: uppercase;
   font-family: 'Piazolla', sans-serif;
 }
@@ -141,25 +141,25 @@ body {
 /* FRONT-END word */
 
 .frontendFLetter {
-  font-size: 72px;
-  font-weight: bold;
+  font-size: 67px;
+  font-weight: normal;
   color: indianred;
-  text-decoration: underline;
-  text-transform: uppercase;
+  text-decoration: none;
+  text-transform: lowercase;
   font-family: 'Piazolla', sans-serif;
 }
 
 .frontendRLetter {
-  font-size: 72px;
+  font-size: 62px;
   font-weight: bold;
   color: fuchsia;
-  text-decoration: underline;
-  text-transform: uppercase;
+  text-decoration: line-through;
+  text-transform: lowercase;
   font-family: 'Piazolla', sans-serif;
 }
 
 .frontendOLetter {
-  font-size: 72px;
+  font-size: 50px;
   font-weight: bold;
   color: firebrick;
   text-decoration: underline;
@@ -168,8 +168,8 @@ body {
 }
 
 .frontendNLetter {
-  font-size: 72px;
-  font-weight: bold;
+  font-size: 70px;
+  font-weight: 400;
   color: forestgreen;
   text-decoration: underline;
   text-transform: uppercase;
@@ -178,9 +178,9 @@ body {
 
 .frontendTLetter {
   font-size: 72px;
-  font-weight: bold;
+  font-weight: 700;
   color: gainsboro;
-  text-decoration: underline;
+  text-decoration: overlineline;
   text-transform: uppercase;
   font-family: 'Piazolla', sans-serif;
 }
@@ -789,8 +789,80 @@ body {
 .question-mark {
   font-size: 72px;
   font-weight: bold;
-  color: pink;
+  color: rgb(163, 82, 96);
   text-decoration: underline;
   text-transform: uppercase;
   font-family: 'Piazolla', sans-serif;
 }
+/*font styles*/
+.didDLetter,.frontendRLetter,.developerVLetter,.takeALetter,.gardeningDLetter,.becauseSLetter,.theyHLetter,.wantedTLetter,.toOLetter,.improveELetter,.hyphen{
+  font-size: 80px;
+  font-weight: 400;
+  text-decoration: overline;
+  text-transform: uppercase;
+  font-family: 'Piazolla', sans-serif;
+}
+.didILetter,.frontendOletLetter,.developerETwoLetter,.takeTLetter,.gardeningNLetter,.becauseETwoLetter,.theyELetter,.wantedALetter,.improveMLetter,.theirHLetter,.question-mark {
+  font-size: 57px;
+  font-weight: bold;
+  text-decoration: overline;
+  text-transform: lowercase;
+  font-family: 'Ceviche One', sans-serif;
+}
+.didDTwoLetter,.frontendTLetter,.developerLLetter,.takeKLetter,.gardeningILetter,.becauseALetter,.theyYLetter,.wantedWLetter,.improvePLetter,.rootOTwoLetter,.exclamation-mark{
+  font-size: 65px;
+  font-weight: normal;
+  text-decoration: overline;
+  text-transform: double;
+  font-family: 'Piazolla', sans-serif;
+}
+.theTLetter,.frontendELetter,.developerRLetter,.takeELetter,.gardeningGTwoLetter,.becauseULetter,.theyTLetter,.wantedDLetter,.improveRLetter,.skillsKLetter{
+  font-size: 50px;
+  font-weight: bold;
+  text-decoration: underline;
+  text-transform: lowercase;
+  font-family: 'Piazolla', sans-serif;
+}
+.theHLetter,.frontendNLetter,.developerDLetter,.upULetter,.gardeningALetter,.becauseELetter,.theirTLetter,.wantedNLetter,.improveILetter,.rootTLetter{
+  font-size: 62px;
+  font-weight: 400;
+  text-decoration: line-through;
+  text-transform: lowercase;
+  font-family: 'Piazolla', sans-serif;
+}
+.theELetter,.frontendNTwoLetter,.developerELetter,.upPLetter,.gardeningGLetter,.becauseBLetter,.theirELetter,.wantedELetter,.improveOLetter,.skillsSLetter{
+  font-size: 70px;
+  font-weight:700;
+  text-decoration: underline;
+  text-transform: uppercase;
+  font-family: 'Piazolla', sans-serif;
+}
+.frontendFLetter,.frontendDLetter,.developerOLetter,.gardeningELetter,.becauseCLetter,.theirILetter,.toTLetter,.improveVLetter,.rootOLetter{
+  font-size: 57px;
+  font-weight:none;
+  text-decoration: line-through;
+  text-transform: lowercase;
+  font-family: 'Piazolla', sans-serif;
+}
+.developerPLetter,.gardeningRLetter,.becauseETwoLetter,.theirRLetter,.rootRLetter,.improveMLetter,.wantedNLetter{
+  font-size: 66px;
+  font-weight: bold;
+  text-decoration: underline;
+  text-transform: lowercase;
+  font-family: 'Piazolla', sans-serif;
+}
+.developerEThreeLetter,.gardeningNLetter,.becauseETwoLetter,.theyTLetter,.theirTLetter,.improveVLetter,.rootTLetter{
+  font-size: 66px;
+  font-weight: 400;
+  text-decoration: line-through;
+  text-transform: capitalize;
+  font-family: 'Piazolla', sans-serif;
+}
+.developerETwoLetter,.gardeningNTwoLetter,.becauseSLetter,.theyELetter,.improveELetter,.rootRLetter,.skillsSLetter{
+  font-size: 65px;
+  font-weight: bold;
+  text-decoration: none;
+  text-transform: double;
+  font-family: 'Piazolla', sans-serif;
+}
+
