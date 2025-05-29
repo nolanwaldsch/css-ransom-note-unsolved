@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Piazzolla&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Ceviche+One&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Raleway+Dots&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Piazzolla&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ceviche+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway+Dots&display=swap");
 
 * {
   padding: 0;
@@ -59,7 +59,7 @@ body {
   color: aqua;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 
 .whyHLetter {
@@ -68,7 +68,7 @@ body {
   color: darkgoldenrod;
   text-decoration: overline;
   text-transform: lowercase;
-  font-family: 'Ceviche One', sans-serif;
+  font-family: "Ceviche One", sans-serif;
 }
 
 .whyYLetter {
@@ -77,7 +77,7 @@ body {
   color: coral;
   text-decoration: none;
   text-transform: uppercase;
-  font-family: 'Raleway Dots', sans-serif;
+  font-family: "Raleway Dots", sans-serif;
 }
 
 /* DID word */
@@ -88,7 +88,7 @@ body {
   color: red;
   text-decoration: line-through;
   text-transform: lowercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 
 .didILetter {
@@ -97,7 +97,7 @@ body {
   color: green;
   text-decoration: overline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 
 .didDTwoLetter {
@@ -106,7 +106,7 @@ body {
   color: lightpink;
   text-decoration: none;
   text-transform: lowercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 
 /* THE word */
@@ -117,7 +117,7 @@ body {
   color: darkorchid;
   text-decoration: underline;
   text-transform: lowercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 
 .theHLetter {
@@ -126,7 +126,7 @@ body {
   color: yellowgreen;
   text-decoration: linethrough;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 
 .theELetter {
@@ -135,7 +135,7 @@ body {
   color: indigo;
   text-decoration: line-through;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 
 /* FRONT-END word */
@@ -146,7 +146,7 @@ body {
   color: indianred;
   text-decoration: none;
   text-transform: lowercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 
 .frontendRLetter {
@@ -155,7 +155,7 @@ body {
   color: fuchsia;
   text-decoration: line-through;
   text-transform: lowercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 
 .frontendOLetter {
@@ -164,7 +164,7 @@ body {
   color: firebrick;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 
 .frontendNLetter {
@@ -173,7 +173,7 @@ body {
   color: forestgreen;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 
 .frontendTLetter {
@@ -182,7 +182,7 @@ body {
   color: gainsboro;
   text-decoration: overlineline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 
 .frontendELetter {
@@ -191,7 +191,7 @@ body {
   color: honeydew;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 
 .frontendNTwoLetter {
@@ -200,7 +200,7 @@ body {
   color: khaki;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 
 .frontendDLetter {
@@ -209,7 +209,7 @@ body {
   color: orange;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 
 /* DEVELOPER word */
@@ -220,7 +220,7 @@ body {
   color: oldlace;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .developerELetter {
   font-size: 72px;
@@ -228,7 +228,7 @@ body {
   color: olive;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .developerVLetter {
   font-size: 72px;
@@ -236,7 +236,7 @@ body {
   color: aquamarine;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .developerETwoLetter {
   font-size: 72px;
@@ -244,7 +244,7 @@ body {
   color: antiquewhite;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .developerLLetter {
   font-size: 72px;
@@ -252,7 +252,7 @@ body {
   color: brown;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .developerOLetter {
   font-size: 72px;
@@ -260,31 +260,31 @@ body {
   color: burlywood;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .developerPLetter {
   font-size: 72px;
   font-weight: bold;
-  color: #5D6D7E;
+  color: #5d6d7e;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .developerEThreeLetter {
   font-size: 72px;
   font-weight: bold;
-  color: #82E0AA;
+  color: #82e0aa;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .developerRLetter {
   font-size: 72px;
   font-weight: bold;
-  color: #5B2C6F  ;
+  color: #5b2c6f;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 
 /* TAKE word */
@@ -292,34 +292,34 @@ body {
 .takeTLetter {
   font-size: 72px;
   font-weight: bold;
-  color: #A93226;
+  color: #a93226;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .takeALetter {
   font-size: 72px;
   font-weight: bold;
-  color: #1B4F72;
+  color: #1b4f72;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .takeKLetter {
   font-size: 72px;
   font-weight: bold;
-  color: #D5F5E3  ;
+  color: #d5f5e3;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .takeELetter {
   font-size: 72px;
   font-weight: bold;
-  color: #F2D7D5;
+  color: #f2d7d5;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 
 /* UP word */
@@ -327,18 +327,18 @@ body {
 .upULetter {
   font-size: 72px;
   font-weight: bold;
-  color: #F9E79F;
+  color: #f9e79f;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .upPLetter {
   font-size: 72px;
   font-weight: bold;
-  color: #7D6608  ;
+  color: #7d6608;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 
 /* GARDENING word */
@@ -346,50 +346,50 @@ body {
 .gardeningGLetter {
   font-size: 72px;
   font-weight: bold;
-  color: #212F3D;
+  color: #212f3d;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .gardeningALetter {
   font-size: 72px;
   font-weight: bold;
-  color: #7FB3D5;
+  color: #7fb3d5;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .gardeningRLetter {
   font-size: 72px;
   font-weight: bold;
-  color: #9B59B6;
+  color: #9b59b6;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .gardeningDLetter {
   font-size: 72px;
   font-weight: bold;
-  color: #145A32;
+  color: #145a32;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .gardeningELetter {
   font-size: 72px;
   font-weight: bold;
-  color: #F57F17  ;
+  color: #f57f17;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .gardeningNLetter {
   font-size: 72px;
   font-weight: bold;
-  color: #D81B60;
+  color: #d81b60;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .gardeningILetter {
   font-size: 72px;
@@ -397,23 +397,23 @@ body {
   color: #795548;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .gardeningNTwoLetter {
   font-size: 72px;
   font-weight: bold;
-  color: #FFEB3B;
+  color: #ffeb3b;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .gardeningGTwoLetter {
   font-size: 72px;
   font-weight: bold;
-  color: #9FA8DA;
+  color: #9fa8da;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 
 /* BECAUSE word */
@@ -424,55 +424,55 @@ body {
   color: #827717;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .becauseELetter {
   font-size: 72px;
   font-weight: bold;
-  color: #00BCD4;
+  color: #00bcd4;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .becauseCLetter {
   font-size: 72px;
   font-weight: bold;
-  color: #C0CA33;
+  color: #c0ca33;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .becauseALetter {
   font-size: 72px;
   font-weight: bold;
-  color: #BCAAA4;
+  color: #bcaaa4;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .becauseULetter {
   font-size: 72px;
   font-weight: bold;
-  color: #6D4C41;
+  color: #6d4c41;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .becauseSLetter {
   font-size: 72px;
   font-weight: bold;
-  color: #E57373;
+  color: #e57373;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .becauseETwoLetter {
   font-size: 72px;
   font-weight: bold;
-  color: #C5E1A5;
+  color: #c5e1a5;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 
 /* THEY word */
@@ -483,23 +483,23 @@ body {
   color: #424242;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .theyHLetter {
   font-size: 72px;
   font-weight: bold;
-  color: #CCFF00;
+  color: #ccff00;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .theyELetter {
   font-size: 72px;
   font-weight: bold;
-  color: #CC9900;
+  color: #cc9900;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .theyYLetter {
   font-size: 72px;
@@ -507,7 +507,7 @@ body {
   color: #003300;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 
 /* WANTED word */
@@ -515,10 +515,10 @@ body {
 .wantedWLetter {
   font-size: 72px;
   font-weight: bold;
-  color: #CC33FF;
+  color: #cc33ff;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .wantedALetter {
   font-size: 72px;
@@ -526,31 +526,31 @@ body {
   color: #669900;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .wantedNLetter {
   font-size: 72px;
   font-weight: bold;
-  color: #6633FF;
+  color: #6633ff;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .wantedTLetter {
   font-size: 72px;
   font-weight: bold;
-  color: #99FF33;
+  color: #99ff33;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .wantedELetter {
   font-size: 72px;
   font-weight: bold;
-  color: #0000FF;
+  color: #0000ff;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .wantedDLetter {
   font-size: 72px;
@@ -558,7 +558,7 @@ body {
   color: #330066;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 
 /* TO word */
@@ -566,18 +566,18 @@ body {
 .toTLetter {
   font-size: 72px;
   font-weight: bold;
-  color: #FF00FF;
+  color: #ff00ff;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .toOLetter {
   font-size: 72px;
   font-weight: bold;
-  color: #00FFCC;
+  color: #00ffcc;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 
 /* IMPROVE word */
@@ -588,7 +588,7 @@ body {
   color: #999933;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .improveMLetter {
   font-size: 72px;
@@ -596,39 +596,39 @@ body {
   color: #990000;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .improvePLetter {
   font-size: 72px;
   font-weight: bold;
-  color: #6633CC;
+  color: #6633cc;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .improveRLetter {
   font-size: 72px;
   font-weight: bold;
-  color: #99CC66;
+  color: #99cc66;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .improveOLetter {
   font-size: 72px;
   font-weight: bold;
-  color: #FFFF00;
+  color: #ffff00;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .improveVLetter {
   font-size: 72px;
   font-weight: bold;
-  color: #FFFF00;
+  color: #ffff00;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .improveELetter {
   font-size: 72px;
@@ -636,7 +636,7 @@ body {
   color: #993366;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 
 /* THEIR word */
@@ -647,7 +647,7 @@ body {
   color: #009999;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .theirHLetter {
   font-size: 72px;
@@ -655,7 +655,7 @@ body {
   color: #996633;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .theirELetter {
   font-size: 72px;
@@ -663,15 +663,15 @@ body {
   color: #999933;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .theirILetter {
   font-size: 72px;
   font-weight: bold;
-  color: #CCFFFF;
+  color: #ccffff;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .theirRLetter {
   font-size: 72px;
@@ -679,7 +679,7 @@ body {
   color: #333300;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 
 /* ROOT word */
@@ -687,18 +687,18 @@ body {
 .rootRLetter {
   font-size: 72px;
   font-weight: bold;
-  color: #66CCFF;
+  color: #66ccff;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .rootOLetter {
   font-size: 72px;
   font-weight: bold;
-  color: #FF0066;
+  color: #ff0066;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .rootOTwoLetter {
   font-size: 72px;
@@ -706,15 +706,15 @@ body {
   color: #006600;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .rootTLetter {
   font-size: 72px;
   font-weight: bold;
-  color: #CC9900;
+  color: #cc9900;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 
 /* SKILLS word */
@@ -722,10 +722,10 @@ body {
 .skillsSLetter {
   font-size: 72px;
   font-weight: bold;
-  color: #00FFCC;
+  color: #00ffcc;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .skillsKLetter {
   font-size: 72px;
@@ -733,15 +733,15 @@ body {
   color: #996666;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .skillsILetter {
   font-size: 72px;
   font-weight: bold;
-  color: #CCFF99;
+  color: #ccff99;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .skillsLLetter {
   font-size: 72px;
@@ -749,7 +749,7 @@ body {
   color: #660066;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .skillsLTwoLetter {
   font-size: 72px;
@@ -757,7 +757,7 @@ body {
   color: #999933;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .skillsSTwoLetter {
   font-size: 72px;
@@ -765,7 +765,7 @@ body {
   color: #993399;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 
 /* SYMBOLS */
@@ -773,18 +773,18 @@ body {
 .hyphen {
   font-size: 72px;
   font-weight: bold;
-  color: #607D8B;
+  color: #607d8b;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .exclamation-mark {
   font-size: 72px;
   font-weight: bold;
-  color: #FFCDD2;
+  color: #ffcdd2;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 .question-mark {
   font-size: 72px;
@@ -792,77 +792,159 @@ body {
   color: rgb(163, 82, 96);
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
 /*font styles*/
-.didDLetter,.frontendRLetter,.developerVLetter,.takeALetter,.gardeningDLetter,.becauseSLetter,.theyHLetter,.wantedTLetter,.toOLetter,.improveELetter,.hyphen{
+.didDLetter,
+.frontendRLetter,
+.developerVLetter,
+.takeALetter,
+.gardeningDLetter,
+.becauseSLetter,
+.theyHLetter,
+.wantedTLetter,
+.toOLetter,
+.improveELetter,
+.hyphen {
   font-size: 80px;
   font-weight: 400;
   text-decoration: overline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
-.didILetter,.frontendOletLetter,.developerETwoLetter,.takeTLetter,.gardeningNLetter,.becauseETwoLetter,.theyELetter,.wantedALetter,.improveMLetter,.theirHLetter,.question-mark {
+.didILetter,
+.frontendOletLetter,
+.developerETwoLetter,
+.takeTLetter,
+.gardeningNLetter,
+.becauseETwoLetter,
+.theyELetter,
+.wantedALetter,
+.improveMLetter,
+.theirHLetter,
+.question-mark {
   font-size: 57px;
   font-weight: bold;
   text-decoration: overline;
   text-transform: lowercase;
-  font-family: 'Ceviche One', sans-serif;
+  font-family: "Ceviche One", sans-serif;
 }
-.didDTwoLetter,.frontendTLetter,.developerLLetter,.takeKLetter,.gardeningILetter,.becauseALetter,.theyYLetter,.wantedWLetter,.improvePLetter,.rootOTwoLetter,.exclamation-mark{
+.didDTwoLetter,
+.frontendTLetter,
+.developerLLetter,
+.takeKLetter,
+.gardeningILetter,
+.becauseALetter,
+.theyYLetter,
+.wantedWLetter,
+.improvePLetter,
+.rootOTwoLetter,
+.exclamation-mark {
   font-size: 65px;
   font-weight: normal;
   text-decoration: overline;
   text-transform: double;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
-.theTLetter,.frontendELetter,.developerRLetter,.takeELetter,.gardeningGTwoLetter,.becauseULetter,.theyTLetter,.wantedDLetter,.improveRLetter,.skillsKLetter{
+.theTLetter,
+.frontendELetter,
+.developerRLetter,
+.takeELetter,
+.gardeningGTwoLetter,
+.becauseULetter,
+.theyTLetter,
+.wantedDLetter,
+.improveRLetter,
+.skillsKLetter {
   font-size: 50px;
   font-weight: bold;
   text-decoration: underline;
   text-transform: lowercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
-.theHLetter,.frontendNLetter,.developerDLetter,.upULetter,.gardeningALetter,.becauseELetter,.theirTLetter,.wantedNLetter,.improveILetter,.rootTLetter{
+.theHLetter,
+.frontendNLetter,
+.developerDLetter,
+.upULetter,
+.gardeningALetter,
+.becauseELetter,
+.theirTLetter,
+.wantedNLetter,
+.improveILetter,
+.rootTLetter {
   font-size: 62px;
   font-weight: 400;
   text-decoration: line-through;
   text-transform: lowercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
-.theELetter,.frontendNTwoLetter,.developerELetter,.upPLetter,.gardeningGLetter,.becauseBLetter,.theirELetter,.wantedELetter,.improveOLetter,.skillsSLetter{
+.theELetter,
+.frontendNTwoLetter,
+.developerELetter,
+.upPLetter,
+.gardeningGLetter,
+.becauseBLetter,
+.theirELetter,
+.wantedELetter,
+.improveOLetter,
+.skillsSLetter {
   font-size: 70px;
-  font-weight:700;
+  font-weight: 700;
   text-decoration: underline;
   text-transform: uppercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
-.frontendFLetter,.frontendDLetter,.developerOLetter,.gardeningELetter,.becauseCLetter,.theirILetter,.toTLetter,.improveVLetter,.rootOLetter{
+.frontendFLetter,
+.frontendDLetter,
+.developerOLetter,
+.gardeningELetter,
+.becauseCLetter,
+.theirILetter,
+.toTLetter,
+.improveVLetter,
+.rootOLetter {
   font-size: 57px;
-  font-weight:none;
+  font-weight: none;
   text-decoration: line-through;
   text-transform: lowercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
-.developerPLetter,.gardeningRLetter,.becauseETwoLetter,.theirRLetter,.rootRLetter,.improveMLetter,.wantedNLetter{
+.developerPLetter,
+.gardeningRLetter,
+.becauseETwoLetter,
+.theirRLetter,
+.rootRLetter,
+.improveMLetter,
+.wantedNLetter {
   font-size: 66px;
   font-weight: bold;
   text-decoration: underline;
   text-transform: lowercase;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
-.developerEThreeLetter,.gardeningNLetter,.becauseETwoLetter,.theyTLetter,.theirTLetter,.improveVLetter,.rootTLetter{
+.developerEThreeLetter,
+.gardeningNLetter,
+.becauseETwoLetter,
+.theyTLetter,
+.theirTLetter,
+.improveVLetter,
+.rootTLetter {
   font-size: 66px;
   font-weight: 400;
   text-decoration: line-through;
   text-transform: capitalize;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
-.developerETwoLetter,.gardeningNTwoLetter,.becauseSLetter,.theyELetter,.improveELetter,.rootRLetter,.skillsSLetter{
+.developerETwoLetter,
+.gardeningNTwoLetter,
+.becauseSLetter,
+.theyELetter,
+.improveELetter,
+.rootRLetter,
+.skillsSLetter {
   font-size: 65px;
   font-weight: bold;
   text-decoration: none;
   text-transform: double;
-  font-family: 'Piazolla', sans-serif;
+  font-family: "Piazolla", sans-serif;
 }
-
